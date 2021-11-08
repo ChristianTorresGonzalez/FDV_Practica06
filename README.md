@@ -20,7 +20,7 @@ Dado que la primera tarea es seleccionar el asset a utilizar, incluiré el segun
 ## Generar animaciones para personaje
 Para esta segunda tarea lo que he hecho ha sido es seleccionar alguno de las imágenes contenidas en el sprite, y juntarlas para que el personaje tenga una animación que realizar:
  
- ![Alt text](/img/animaciones.gif)
+ ![Alt text](/img/animaciones.png)
  
 - **Animación caminar**
  ![Alt text](/img/caminar.gif)
