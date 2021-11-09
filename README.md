@@ -57,3 +57,10 @@ Para este punto se pide que mediante la tecla "x", cuando esta es pulsada, otro 
 ![Alt text](/img/animacion.png)
 
 ![Alt text](/img/animacion.gif)
+
+## Proximidad a objeto
+Para este punto se pide que cuando nuestro jugador se aproxime a un objeto situado en la escena, este realice una animación diferente. Para realizarlo, de la misma manera que el punto anterior, lo que hago es crear una variable bool en el animador, que se va a encargar de determinar cuando se debe realizar la animación o no, en caso de que la distancia entre el jugador y el objeto sea menor a un umbral, se activara dicha variable y se realizará la animación.
+
+![Alt text](/img/proximidad.png)
+
+![Alt text](/img/proximidad.gif)
