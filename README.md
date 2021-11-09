@@ -1,4 +1,5 @@
 # Practica_06_ChristianTorresGonzalez
+
 Para la realización de esta sexta práctica, desarrollaré un nuevo escenario,  donde trabajaré con herramientas 2D para el desarrollo de juegos de este tipo. Dentro de esta practica, se desarrollarán diversos puntos a cumplir:
 1.  Obtener assets que incorpores a tu proyecto: Sprites individuales y Atlas de  [Sprites.](https://campusdoctoradoyposgrado2122.ull.es/mod/resource/view.php?id=21711 "Sprites.")
 2.  Incorporar los recursos del punto 1 en el proyecto y generar al menos 2 animaciones para uno de los personajes.
@@ -49,3 +50,10 @@ Para este punto se pide que mediante la tecla "Espacio" podamos saltar con nuest
 ![Alt text](/img/salto.png)
 
 ![Alt text](/img/salto.gif)
+
+## Animacion otro personaje
+Para este punto se pide que mediante la tecla "x", cuando esta es pulsada, otro personaje de nuestra escena, realice una animación. Para ello lo que he hecho ha sido crear una variable bool en nuestro "Animator", que funcionara como condición para saber que se ha pulsado la tecla y que se tiene que realizar la animación.
+
+![Alt text](/img/animacion.png)
+
+![Alt text](/img/animacion.gif)
