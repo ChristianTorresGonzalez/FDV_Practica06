@@ -1,5 +1,4 @@
 # Practica_06_ChristianTorresGonzalez
-
 Para la realización de esta sexta práctica, desarrollaré un nuevo escenario,  donde trabajaré con herramientas 2D para el desarrollo de juegos de este tipo. Dentro de esta practica, se desarrollarán diversos puntos a cumplir:
 1.  Obtener assets que incorpores a tu proyecto: Sprites individuales y Atlas de  [Sprites.](https://campusdoctoradoyposgrado2122.ull.es/mod/resource/view.php?id=21711 "Sprites.")
 2.  Incorporar los recursos del punto 1 en el proyecto y generar al menos 2 animaciones para uno de los personajes.
@@ -30,3 +29,23 @@ Para esta segunda tarea lo que he hecho ha sido es seleccionar alguno de las im�
  
  - **Animación morir**
  ![Alt text](/img/morir.gif)
+
+
+## Opción Flip en inspector
+Al seleccionar la opción Flip en el inspector sobre nuestro personaje, lo que ocurrirá es que se aplica una transformación horizontal, es decir, pasa a mirar al lado contrario
+
+![Alt text](/img/flip.gif)
+
+## Controlar jugador
+Para este punto se pide que mediante las teclas "WASD" podamos mover un objeto dentro de la escena. Para ello lo que he hecho ha sido desarrollar un script con el cual mediante las teclas "a" y "d" se podrá mover el jugador por la escena.
+
+![Alt text](/img/movimiento.png)
+
+![Alt text](/img/movimiento.gif)
+
+## Salto del jugador
+Para este punto se pide que mediante la tecla "Espacio" podamos saltar con nuestro personaje en la escena. Para ello lo que he hecho ha sido desarrollar un script con el cual mediante la tecla espacio, se aplicara una fuerza vertical al rigidbody de nuestro personaje.
+
+![Alt text](/img/salto.png)
+
+![Alt text](/img/salto.gif)
